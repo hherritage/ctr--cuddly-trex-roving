@@ -37,9 +37,9 @@ Christ the Reconciler is a residential intentional community on sixteen acres in
 - We enter into the painful place across difference.
 - We share daily prayer, meals, and work.
 - We welcome guests for retreats.
-- Out of our shared life we produce resources—-teachings, podcasts, books, etc.--for Christians everywhere who believe that the hostility fracturing the Body of Christ is not inevitable and that Jesus' prayer for unity can actually be answered.
+- Out of our shared life we produce resources -- teachings, podcasts, books, etc. -- for Christians everywhere who believe that the hostility fracturing the Body of Christ is not inevitable and that Jesus' prayer for unity can actually be answered.
 
-We are not a new denomination. We are not a parachurch organization running programs. We are Catholics, Protestants, Orthodox Christians, and Messianic Jews living together, disagreeing honestly, and choosing not to be enemies. We are rooted in the ancient Christian faith and accountable to recognized leaders across the traditions we represent.
+We are not a new denomination. We are not a parachurch organization running programs. We are Protestant, Catholic, Orthodox, Pentecostal, Evangelical, Anabaptist, Reformed, and Jewish believers in Jesus living together, disagreeing honestly, and choosing not to be enemies. We are rooted in the ancient Christian faith and accountable to recognized leaders across the traditions we represent.
 
 [[ctr-about-index|About CTR]] [[ctr-about-friends|Our Friends and Commendations]]
 

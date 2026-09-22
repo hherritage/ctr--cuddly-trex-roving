@@ -1,13 +1,15 @@
 nav {
   --link-color: var(--color-primitive-night);
+  font-size: var(--type-xs);
 }
 
 nav ul {
+  text-align: left;
   list-style: none;
 
-  display: block;
-  justify-content: flex-end;
-  flex-wrap: wrap;
+  display: flex;
+  justify-content: flex-start;
+  /* flex-wrap: wrap; */
 
   gap: var(--space-sm);
 }
@@ -19,7 +21,8 @@ nav ul li {
 
 nav a {
   position: relative;
-  text-decoration: none;
+  /* text-decoration: none; */
+  padding: var(--space-xxs);
 }
 /* nav a:hover,
 nav a:active,
@@ -30,7 +33,7 @@ nav a:focus {
   text-decoration-color: red;
 }
 
-nav a::before {
+/* nav a::before {
   content: '';
   position: absolute;
   z-index: -1;
@@ -62,8 +65,9 @@ nav a:focus::before {
   height: 3px;
 
   left: 0;
-}
+} */
 
 ul.nav-depth-2 {
   display: block;
+  padding-left: 0.75em;
 }

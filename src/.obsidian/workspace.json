@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_internal/outline of ctr.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "outline of ctr"
+              "title": "index"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a62f63fd45fd53c7",
@@ -201,8 +200,8 @@
   },
   "active": "07d09aee4bb25a93",
   "lastOpenFiles": [
-    "about/john-17.md",
     "_internal/outline of ctr.md",
+    "about/john-17.md",
     "index.md",
     "practices/statement-of-devotion.md",
     "practices/formation.md",
